@@ -1,0 +1,8 @@
+Key Words
+
+Class: allows us to make classes, contains data and methods
+Instance: An instance of a class, the constructor makes memory to allow information to be stored in this particulart class object
+Constructor: __init__, makes memory for the class objects
+Self: self is the instance in question
+Instance Variable: all variable associated with an instance, made with self.variable
+Instance Methods: all functions associated with an instance, made with self.function()
