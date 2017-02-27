@@ -38,6 +38,6 @@ terry.pencolor("blue")
 terry.speed(10)
 #draw_triangle(terry, 100, 1)
 #draw_triangle(terry, -length/2, -length*pf/2, length)
-recursive_triangle(terry, -length/2, -length*pf/2, length, 6)
+recursive_triangle(terry, -length/2, -length*pf/2, length, 5)
 
 window.exitonclick()

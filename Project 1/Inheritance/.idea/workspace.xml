@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64b00afc-6bf3-4303-ac64-c38da3f49067" name="Default" comment="" />
+    <list default="true" id="d050f099-1996-42ef-8443-7ccc16443ef0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,45 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="media.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/media.py">
+      <file leaf-file-name="inheritance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+            <state relative-caret-position="323">
+              <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entertainment_center.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/entertainment_center.py">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fresh_tomatoes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fresh_tomatoes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="127" column="6" lean-forward="true" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fresh_tomatoes.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1632">
-              <caret line="96" column="76" lean-forward="true" selection-start-line="96" selection-start-column="76" selection-end-line="96" selection-end-column="76" />
+            <state relative-caret-position="170">
+              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -71,9 +47,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/fresh_tomatoes.py" />
-        <option value="$PROJECT_DIR$/media.py" />
-        <option value="$PROJECT_DIR$/entertainment_center.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/inheritance.py" />
       </list>
     </option>
   </component>
@@ -98,26 +73,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Movies" />
+              <option name="myItemId" value="Inheritance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Movies" />
+              <option name="myItemId" value="Inheritance" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
-  <component name="RunManager" selected="Python.entertainment_center">
-    <configuration default="false" name="entertainment_center" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -128,8 +103,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/entertainment_center.py" />
+      <module name="Inheritance" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -145,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -160,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -172,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -191,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -210,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -231,7 +206,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -253,7 +228,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Movies" />
+      <module name="Inheritance" />
       <option name="SCRIPT_NAME" value="" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
@@ -269,11 +244,11 @@
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.entertainment_center" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.entertainment_center" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -282,23 +257,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="64b00afc-6bf3-4303-ac64-c38da3f49067" name="Default" comment="" />
-      <created>1487964375241</created>
+      <changelist id="d050f099-1996-42ef-8443-7ccc16443ef0" name="Default" comment="" />
+      <created>1487970089366</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1487964375241</updated>
+      <updated>1487970089366</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="301" y="39" width="1400" height="1000" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -317,19 +292,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>9</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/media.py">
+    <entry file="file://$PROJECT_DIR$/inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/entertainment_center.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Movies/entertainment_center.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -339,93 +330,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.py">
+    <entry file="file://$PROJECT_DIR$/inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="127" column="6" lean-forward="true" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="76" lean-forward="true" selection-start-line="96" selection-start-column="76" selection-end-line="96" selection-end-column="76" />
+        <state relative-caret-position="323">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/media.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        <state relative-caret-position="170">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entertainment_center.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="127" column="6" lean-forward="true" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="76" lean-forward="true" selection-start-line="96" selection-start-column="76" selection-end-line="96" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="96" column="76" lean-forward="true" selection-start-line="96" selection-start-column="76" selection-end-line="96" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fresh_tomatoes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="127" column="6" lean-forward="true" selection-start-line="127" selection-start-column="6" selection-end-line="127" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/media.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/entertainment_center.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

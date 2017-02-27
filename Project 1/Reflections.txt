@@ -6,3 +6,15 @@ Constructor: __init__, makes memory for the class objects
 Self: self is the instance in question
 Instance Variable: all variable associated with an instance, made with self.variable
 Instance Methods: all functions associated with an instance, made with self.function()
+
+Class variable
+
+variable that are associated with every instance of the class. __doc__, __name__, __module__
+
+Inheritance
+
+Allows a sub class to inherit attribute and methods in a parent class
+
+Method Overriding
+
+When a class has a method with the same name from its inherited class, the method within the class will override the inherited class's method
