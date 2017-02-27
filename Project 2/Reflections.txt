@@ -1,0 +1,16 @@
+Each HTML element has a opening tag and closing tag
+
+eg. div ----- h2 ----- span ---- text
+
+			  div ----- body
+
+a tag is an element in the tree
+each tag can also have attribute and values to the attribute
+
+HTML, CSS, DOM (docuemnt object model)
+
+CSS allows code to use syntax and define how element looks.
+HTML provide structure to where to look for the CSS and where to get it
+
+Cascading style sheets (CSS)
+the most specific rule apply to all element. you keep goign down the rules until you find the one most specific to the element
