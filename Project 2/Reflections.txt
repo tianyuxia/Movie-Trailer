@@ -1,3 +1,5 @@
+HTML Intro
+-----------------------------------------------------------------------
 Each HTML element has a opening tag and closing tag
 
 eg. div ----- h2 ----- span ---- text
@@ -14,3 +16,11 @@ HTML provide structure to where to look for the CSS and where to get it
 
 Cascading style sheets (CSS)
 the most specific rule apply to all element. you keep goign down the rules until you find the one most specific to the element
+
+Defining Grid Layout
+---------------------------------------------------------------------------
+In typical web development, max_width is set to 960px by tradition
+most of the grid layout today uses 12 column design to allow coder to decide whether to pursue a 2 column, 3 column, or 4 column design
+
+Media Quaries
+---------------------------------------------------------------------------
