@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<form method="post">
+    <input type="submit" value="New Post">
+</form>
+
+{% for blog in blogs %}
+<div class="blog-subject">{{blog.subject}}</div>
+<hr>
+<pre class="blog-content">{{blog.content}}</pre>
+{% endfor %}
+{% endblock %}
