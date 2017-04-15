@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<form method="post">
+    <input type="submit" name="newpost" value="New Blog Post">
+    <input type="submit" name="showascii" value="Show Ascii Art">    
+</form>
+
+  {% for post in posts %}
+    {{ post.render() | safe }}
+    <br><br>
+  {% endfor %}
+
+{% endblock %}

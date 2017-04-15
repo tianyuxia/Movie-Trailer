@@ -1,4 +1,4 @@
-<form>
+<form method="post">
     <select name="q">
         <option value="1">the number one</option>
         <option value="2">Two</option>
@@ -6,5 +6,14 @@
     </select>
 
     <br>
+
+    <fieldset>
+                <legend>What is Your Favorite Pet?</legend>
+                        <input type="checkbox" name="animal[]" value="Cat" />Cats <br />
+                        <input type="checkbox" name="animal[]" value="Dog" />Dogs<br />
+                        <input type="checkbox" name="animal[]" value="Bird" />Birds<br />
+                        <input type="submit" value="Submit now" />
+    </fieldset>
+
     <input type="submit">
 </form>

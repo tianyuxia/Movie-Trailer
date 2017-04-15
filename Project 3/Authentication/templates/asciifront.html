@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <form method="post">
+        <input type="submit" name="newascii" value="New Ascii Art">
+        <input type="submit" name="showblog" value="Show Blog Post">    
+    </form>
+    {% for art in arts %}
+                <div class="art-title">{{art.title}} </div>
+                <hr>
+                <pre class="art-body">{{art.art}}</pre>
+                <br>
+    {% endfor %}
+{% endblock %}
